@@ -7,4 +7,4 @@
 ## hub-nedir? ***Hub ile Git ayrılmaz bir ikilidir birbirlerini desteklerler gelelim Hub'a ,Hub Git'e bağlanmanızı sağlar yani interneten erişebilirsiniz*** 
 
 
-## git'i nasıl indiriz? ***Öncelikle  git-scm.com/downloads adresine gidip Git'i bilgisiyaramıza indiriyoruz
+
