@@ -1,3 +1,3 @@
 # git-notlarim
-## git-nedir?  ~~This was mistaken text~~
+## git-nedir?  	**This text is _extremely_ important**
 
