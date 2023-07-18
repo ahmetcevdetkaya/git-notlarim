@@ -1,3 +1,3 @@
 # git-notlarim
-## git-nedir?  	**This text is _extremely_ important**
+## git-nedir?  	**This text is _ak47_ important**
 
