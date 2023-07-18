@@ -1,3 +1,3 @@
 # git-notlarim
-## git-nedir?
-fsdfsdfgdfgdfgd
+## git-nedir?  ~~This was mistaken text~~
+
