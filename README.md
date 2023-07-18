@@ -4,5 +4,7 @@
 
 ## git-nedir? ***Git yani Git command line tools(Git komut satırı araçları) basitçe yazdığınız kodlar zaman içinde eskide kalır aynı telefonuzdaki bir uyguluma veya bilgisayarnızdaki oyunun güncellenmesi gibi işte  yazdığınız kodların güncelemek için git kullanırsınız***
 
-## hub-nedir? ***Hub ile Git ayrılmaz bir ikilidir birbirlerini desteklerler gelelim Hub'a ,Hub Git'e bağlanmanızı sağlar yani interneten erişebilirsiniz 
+## hub-nedir? ***Hub ile Git ayrılmaz bir ikilidir birbirlerini desteklerler gelelim Hub'a ,Hub Git'e bağlanmanızı sağlar yani interneten erişebilirsiniz*** 
 
+
+## git'i nasıl indiriz? ***Öncelikle  git-scm.com/downloads adresine gidip Git'i bilgisiyaramıza indiriyoruz
