@@ -6,7 +6,17 @@
 
 ## hub-nedir? ***Hub ile Git ayrılmaz bir ikilidir birbirlerini desteklerler gelelim Hub'a ,Hub Git'e bağlanmanızı sağlar yani interneten erişebilirsiniz*** 
 
-## TEST
+## git-kodları: 
+git init:masa üstünde oluşturduğunuz bir dosyayı  repository yapmayı sağlar
+git clone:bilgisayarınıza indirdiğiniz  repository dosyasını açmaya/kullanmaya yarar
+git add: repository üzerindde yaptığınız değişiklikleri kaydemeye hazır hale getirir
+git push:oluşturduğunuz dosyayı github a aktarır
+git pull: repository üzerinde yaptığınız değişikleri kaydetmenizi sağlar
+git commit:git add ile kaydetmeye hazır hale getirdiğiniz dosyaları kaydetmenezi sağlar
+git commit -m:
+git status: repository hakkında kısaca bilgi verir
+git branch:bu komut ile tüm branch görebilirsiniz(branch:kullanıcının farklı versiyonlara erişmesini sağlar)
+git merge:yapıştırıcı gibi çalıştığınız 2 parçayı birbirine yapıştırır 
 
 
 
